@@ -20,6 +20,7 @@ class IdeaGit {
         System.out.println("-----------");
         System.out.println("-----------");
         int b = 100;
+        String ste="aaa";
     }
 
 }
