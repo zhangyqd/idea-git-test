@@ -15,6 +15,10 @@ class IdeaGit {
     void devAdd() {
         int a = 20;
         System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
     }
 
 }
